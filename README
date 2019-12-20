@@ -1,4 +1,4 @@
-#Ricochet-Robots
+# Ricochet-Robots
 The object of the game is to get the designated numbered robot to the indicated letter position.                              
 The numbered squares are all robots.  
 They unfortunately have no brakes, and so will continue in whatever direction they are moving until they encountar an obstacle.                       
