@@ -1,0 +1,11 @@
+The object of the game is to get the designated numbered robot to the indicated letter position.                              
+The numbered squares are all robots.  They unfortunately have no brakes, and so will continue in whatever direction they are 
+moving until they encountar an obstacle.                       
+For each move enter the robot number and the desired direction.
+For instance entering                                          
+   1 U 
+would move the #1 robot up as far as it can go.                
+The first letter of input is the robot number (1 - 4),         
+and the second letter is the direction:                        
+  (L=left, U=up, R=right, D=down)                              
+Enter x to exit.  Have fun!  
