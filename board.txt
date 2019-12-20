@@ -1,0 +1,38 @@
+# Datafile for RicoRobots program. Top numeric line is the number of special letter characters.
+# Second numeric line is number of special display characters define below.
+# The last set of lines define the placement of the numbered robots.
+15
+29
+5 |000
+11 |000
+18 00|- A
+25 |00- B
+46 0-|0 C
+49 |00- D
+64 |00-
+70 |-00 E
+74 00|- F
+95 0-|0
+101 0-|0 G
+108 |-00 H
+115 00|- I
+119 |-00
+120 0-|0
+135 |00-
+136 00|-
+145 0-|0 J
+149 |-00 K
+159 00|- 
+160 |00-
+168 00|- L
+189 |-00
+198 00|- M
+217 |00- N
+226 |00- O
+238 0-|0
+246 |00-
+252 |00-
+238 red
+255 green
+189 blue
+95 yellow
